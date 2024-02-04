@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 I'm
-Python Developer
-Experience in Technologies (Python, core JAVA, C Programming Language, dJango), front-end development (ReactJS, HTML5, Javascript), database (Oracle), CI/CD(Jenkins), Version Control System(GIT). Good at grasping new technical concepts quickly & utilizing it in a productive manner. Passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. Enthusiastic team player who is committed to deliver the best results
+Python Developer,
+Experienced in Coding Technologies (Python, core JAVA, C Programming Language, dJango), front-end development (ReactJS, HTML5, Javascript), database (Oracle), CI/CD(Jenkins), Version Control System(GIT). Good at grasping new technical concepts quickly & utilizing it in a productive manner. Passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. Enthusiastic team player who is committed to deliver the best results
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Shubham-232302/count.svg)
