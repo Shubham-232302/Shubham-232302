@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-deodhar-b17059b7/)](https://www.linkedin.com/in/shubham-deodhar-b17059b7/)
-[![Website Badge](https://img.shields.io/badge/profile)](https://shubham-232302.github.io/profile/)
+[![Website Badge](![Static Badge](https://img.shields.io/badge/my_profile-blue))](https://shubham-232302.github.io/profile/)
 
 I'm
 a Python Developer,
