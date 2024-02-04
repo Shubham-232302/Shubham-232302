@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-deodhar-b17059b7/)](https://www.linkedin.com/in/shubham-deodhar-b17059b7/)
-[![Website Badge](https://in.images.search.yahoo.com/yhs/view;_ylt=AwrPphw97b9lIWk.AY0O9olQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzdlYmVhMDE0YWNiY2QzN2FiMWViZWE2MjY4YzcxZWYzBGdwb3MDMTQEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dsmall%2Bprofile%2Blogo%26ei%3DUTF-8%26type%3D7__alt__ddc_downloadconverterfree_com%26fr%3Dyhs-domaindev-domaindev_ddc_extensions%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26hsimp%3Dyhs-domaindev_ddc_extensions%26hspart%3Ddomaindev%26tab%3Dorganic%26ri%3D14&w=980&h=980&imgurl=cdn.onlinewebfonts.com%2Fsvg%2Fimg_206976.png&rurl=https%3A%2F%2Fwww.onlinewebfonts.com%2Ficon%2F206976&size=38.4KB&p=small+profile+logo&oid=7ebea014acbcd37ab1ebea6268c71ef3&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=yhs-domaindev-domaindev_ddc_extensions&tt=Profile+Svg+Png+Icon+Free+Download+%28%23206976%29+-+OnlineWebFonts.COM&b=0&ni=160&no=14&ts=&tab=organic&sigr=TJsPkz9Zd6Iv&sigb=jvxou8ZdWTnz&sigi=WyEiqNtUdHY_&sigt=PWsaWI0rJfEX&.crumb=6djmXTaE1mk&fr=yhs-domaindev-domaindev_ddc_extensions&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&hsimp=yhs-domaindev_ddc_extensions&hspart=domaindev&type=7__alt__ddc_downloadconverterfree_com)](https://shubham-232302.github.io/profile/
-)
+[![Website Badge](https://tse1.mm.bing.net/th?id=OIP.fgsksz6jai-C8cKYcaJfGAHaF2&pid=Api&P=0&h=180)](https://shubham-232302.github.io/profile/)
 
 I'm
 a Python Developer,
