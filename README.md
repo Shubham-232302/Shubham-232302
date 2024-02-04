@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-deodhar-b17059b7/)](https://www.linkedin.com/in/shubham-deodhar-b17059b7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-deodhar-b17059b7/)](https://www.linkedin.com/in/shubham-deodhar-b17059b7/)
 
 I'm
 a Python Developer,
