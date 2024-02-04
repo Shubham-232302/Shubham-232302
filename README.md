@@ -1,5 +1,7 @@
 ### Hi Developers 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-deodhar-b17059b7/)](https://www.linkedin.com/in/shubham-deodhar-b17059b7/)
+
 I'm
 a Python Developer,
 Experienced in Coding Technologies (Python, core JAVA, C Programming Language, dJango), front-end development (ReactJS, HTML5, Javascript), database (Oracle), CI/CD(Jenkins), Version Control System(GIT). Good at grasping new technical concepts quickly & utilizing it in a productive manner. Passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. Enthusiastic team player who is committed to deliver the best results
