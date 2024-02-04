@@ -29,7 +29,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://in.images.search.yahoo.com/yhs/search?p=django+icon&fr=yhs-domaindev-domaindev_ddc_extensions&type=7__alt__ddc_downloadconverterfree_com&hspart=domaindev&hsimp=yhs-domaindev_ddc_extensions&imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F353657%2Fdjango-icon.svg#id=0&iurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F353657%2Fdjango-icon.svg&action=click" alt="django" width="40" height="40" />
+        <img src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png" alt="django" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
