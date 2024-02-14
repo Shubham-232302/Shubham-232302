@@ -13,9 +13,9 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <img src="https://github-profile-trophy.vercel.app/?username=Shubham-232302&column=7"/>
-  </a>
+<!--   </a> -->
 </div>
 Languages and Tools: 
 
