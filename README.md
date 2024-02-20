@@ -17,6 +17,8 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
     <img src="https://github-profile-trophy.vercel.app/?username=Shubham-232302&column=7"/>
 <!--   </a> -->
 </div>
+<br>
+<br>
 Languages and Tools: 
 <br>
 
