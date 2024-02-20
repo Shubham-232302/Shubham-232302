@@ -20,7 +20,8 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
 <br>
 <br>
 Languages and Tools: 
-<br>
+<br><br>
+<hr>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
