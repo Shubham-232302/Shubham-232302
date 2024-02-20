@@ -10,6 +10,7 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Shubham-232302/count.svg)
+<hr>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
