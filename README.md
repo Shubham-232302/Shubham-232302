@@ -26,12 +26,6 @@
 
 <hr>
 
-<h2 align="center">🏆 Github Profile Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-232302&column=7" alt="Github Profile Trophy" />
-</p>
-
-<hr>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
