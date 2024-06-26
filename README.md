@@ -13,13 +13,13 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
 <hr>
 
 <div>
-  <h4>🏆 Github Profile Trophy </h4>
+  <h2>🏆 Github Profile Trophy </h2>
 <!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <img src="https://github-profile-trophy.vercel.app/?username=Shubham-232302&column=7"/>
 <!--   </a> -->
 </div>
 <br><hr>
-<strong>Languages and Tools:</strong> 
+<h2>Languages and Tools:</h2> 
 <br><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -70,4 +70,18 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     </a>
+<br><hr>
+
+<h2> 📊 GitHub Stats</h2>:
+<p align="center">
+  <a href="https://github.com/Shubham-232302">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shubham-232302&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Shubham's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Shubham-232302">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-232302&theme=react&hide_border=false" alt="Shubham's GitHub Streak" />
+  </a>
+  <a href="https://github.com/Shubham-232302">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-232302&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shubham's Top Languages" />
+  </a>
+</p>
 
