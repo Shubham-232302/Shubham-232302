@@ -1,27 +1,41 @@
-### Hi Developers 👋
+<h1 align="center">Hi Developers 👋, I'm Shubham Deodhar</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-deodhar-b17059b7/">
+    <img src="https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://shubham-232302.github.io/profile/">
+    <img src="https://img.shields.io/badge/myProfile-green" alt="Profile Badge" />
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-deodhar-b17059b7/)](https://www.linkedin.com/in/shubham-deodhar-b17059b7/)
-[![Static Badge](https://img.shields.io/badge/myProfile-green)](https://shubham-232302.github.io/profile/)
+<p align="center">
+  <strong>A passionate Python Developer with experience in:</strong>
+  <ul>
+    <li>Coding Technologies: Python, Core Java, C, Django</li>
+    <li>Front-end Development: ReactJS, HTML5, JavaScript</li>
+    <li>Database Management: Oracle</li>
+    <li>CI/CD: Jenkins</li>
+    <li>Version Control: Git</li>
+  </ul>
+  <p align="center">I am adept at grasping new technical concepts quickly and utilizing them in a productive manner. I am passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. As an enthusiastic team player, I am committed to delivering the best results.</p>
+</p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Shubham-232302/count.svg" alt="Visitor Count" />
+</p>
 
-I'm
-a Python Developer,
-Experienced in Coding Technologies (Python, core JAVA, C Programming Language, dJango), front-end development (ReactJS, HTML5, Javascript), database (Oracle), CI/CD(Jenkins), Version Control System(GIT). Good at grasping new technical concepts quickly & utilizing it in a productive manner. Passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success. Enthusiastic team player who is committed to deliver the best results
-
-
-![Visitor Count](https://profile-counter.glitch.me/Shubham-232302/count.svg)
 <hr>
 
-<div>
-  <h2>🏆 Github Profile Trophy </h2>
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Shubham-232302&column=7"/>
-<!--   </a> -->
-</div>
-<br><hr>
-<h2>Languages and Tools:</h2> 
-<br><br>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<h2 align="center">🏆 Github Profile Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-232302&column=7" alt="Github Profile Trophy" />
+</p>
+
+<hr>
+
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -70,9 +84,11 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     </a>
-<br><hr>
+</p>
 
-<h2> 📊 GitHub Stats</h2>:
+<hr>
+
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/Shubham-232302">
     <img src="https://github-readme-stats.vercel.app/api?username=Shubham-232302&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Shubham's GitHub Stats" />
@@ -84,4 +100,3 @@ Experienced in Coding Technologies (Python, core JAVA, C Programming Language, d
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-232302&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Shubham's Top Languages" />
   </a>
 </p>
-
